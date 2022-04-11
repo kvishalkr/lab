@@ -318,7 +318,7 @@ void bptree::insertv(int val){
            pj->element[bh+1].value = f->element[0];
            return;
         }
-        cout<<"ghdgh"<<endl;
+        //cout<<"ghdgh"<<endl;
         
        
         struct{
